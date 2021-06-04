@@ -5,17 +5,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 1.2.6</br>
-<br>- Size: 14.4MB</br>
+<br>- Version: 1.2.7</br>
+<br>- Size: 17.1MB</br>
 <br>- Filelinked code: 26337862</br>
 <br>- FireDL code: 571320</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix vidlox link.</br>
+<br>- Fix crash bug.</br>
 <br>- Add 3 link providers.</br>",  
-"update_build":"35",  
-"update_version":"1.2.6",  
-"update_link":"https://github.com/novaapk/kkddd/releases/download/1.2.6/1.2.6f.apk",  
+"update_build":"36",  
+"update_version":"1.2.7",  
+"update_link":"https://github.com/novaapk/kkddd/releases/download/1.2.7/1.2.7f.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/hfyir7a7dgyyfiy/1.2.4f.apk",
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
