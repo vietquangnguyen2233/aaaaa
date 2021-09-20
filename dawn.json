@@ -20,9 +20,9 @@
 "enable_install_player":true,
 "title_player":"Polygon Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
-"link_download_player":"https://github.com/samtvapk/abcd/releases/download/1.0.2r/1.0.2r.apk",
+"link_download_player":"https://github.com/samtvapk/abcd/releases/download/1.0.4r/1.0.4r.apk",
 "package_name_player":"com.polygon.videoplayer",
-"oneplayer_version_build":"3",
+"oneplayer_version_build":"5",
 "enable_force_player":false,
 "tmdb_key":"35ab7a51001695fc52d8095a21e90b0d",
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
