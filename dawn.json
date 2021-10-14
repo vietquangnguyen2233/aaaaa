@@ -5,24 +5,24 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 1.3.2</br>
+<br>- Version: 1.3.3</br>
 <br>- Size: 17.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix crash bug.</br>
 <br>- Add 5 link providers.</br>",  
-"update_build":"41",  
-"update_version":"1.3.2",  
-"update_link":"https://github.com/adminandroidonetech/alphabet/releases/download/1.3.2/1.3.2.apk",  
+"update_build":"42",  
+"update_version":"1.3.3",  
+"update_link":"https://github.com/adminandroidonetech/alphabet/releases/download/1.3.3/1.3.3f.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/hfyir7a7dgyyfiy/1.2.4f.apk",
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":true,
 "title_player":"Polygon Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
-"link_download_player":"https://github.com/samtvapk/abcd/releases/download/1.0.4r/1.0.4r.apk",
+"link_download_player":"https://github.com/samtvapk/abcd/releases/download/1.0.6r/1.0.6r.apk",
 "package_name_player":"com.polygon.videoplayer",
-"oneplayer_version_build":"5",
+"oneplayer_version_build":"7",
 "enable_force_player":false,
 "tmdb_key":"35ab7a51001695fc52d8095a21e90b0d",
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
