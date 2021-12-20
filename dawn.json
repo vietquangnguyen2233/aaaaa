@@ -19,11 +19,11 @@
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":true,
-"title_player":"Polygon Video Player";
+"title_player":"Mate Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
-"link_download_player":"https://github.com/samtvapk/abcd/releases/download/1.0.6r/1.0.6r.apk",
-"package_name_player":"com.polygon.videoplayer",
-"oneplayer_version_build":"7",
+"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.1.0x/1.1.0x.apk",
+"package_name_player":"com.player.matett",
+"oneplayer_version_build":"12",
 "enable_force_player":false,
 "tmdb_key":"35ab7a51001695fc52d8095a21e90b0d",
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
