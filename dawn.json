@@ -21,9 +21,9 @@
 "enable_install_player":true,
 "title_player":"Mate Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
-"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.1.3x/1.1.3x.apk",
+"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.1.5x/mate1.1.5x.apk",
 "package_name_player":"com.player.matett",
-"oneplayer_version_build":"15",
+"oneplayer_version_build":"17",
 "enable_force_player":false,
 "tmdb_key":"35ab7a51001695fc52d8095a21e90b0d",
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
