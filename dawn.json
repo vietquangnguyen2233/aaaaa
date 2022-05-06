@@ -21,9 +21,9 @@
 "enable_install_player":true,
 "title_player":"Polygon Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
-"link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.1.1r/1.1.1r.apk",
+"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.1.7r/1.1.7r.apk",
 "package_name_player":"com.polygon.videoplayer",
-"oneplayer_version_build":"14",
+"oneplayer_version_build":"20",
 "enable_force_player":false,
 "enable_install_player_new":true,
 "pkg_player_new":"com.media.vzplayer",
