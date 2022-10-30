@@ -30,7 +30,7 @@
 "player_new_build":"16",
 "player_new_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.1.5/1.1.5.apk",
 "force_playernew_direct_link":false,
-"enable_force_player":true,
+"enable_force_player":false,
 "tmdb_key":"6696c3ce4dd342fb7a1c66e1c6859779",
 "iron_enable":false,
 "site_cookie":"https://ww3.series9.ac, https://crocovid.com/",
