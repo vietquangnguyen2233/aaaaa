@@ -29,7 +29,7 @@
 "des_player_new":"Please install Video Player to watch",
 "player_new_build":"25",
 "player_new_link":"https://github.com/bloodhornaaa/adc/releases/download/1.2.4/1.2.4.apk",
-"force_playernew_direct_link":false,
+"force_playernew_direct_link":true,
 "enable_force_player":true,
 "tmdb_key":"22376a02c7c78135128730f34dd4622a",
 "text_link":"https://play.google.com/store/apps/details?id=com.bweather.forecast",
