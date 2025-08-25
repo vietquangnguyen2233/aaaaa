@@ -4,14 +4,14 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
-<br></br>
-<b>Release Info</b>
-<br>- Version: 2.3.3r</br>
-<br>- Size: 11.1MB</br>
-<br></br>
-<br><b>Change logs</b></br>
-<br>- Add Std link.</br>
-<br>- Add 5 link providers.</br>",  
+\n<br></br>\n
+\n<b>Release Info</b>\n
+\n<br>- Version: 2.3.3r</br>\n
+\n<br>- Size: 11.1MB</br>\n
+\n<br></br>\n
+\n<br><b>Change logs</b></br>\n
+\n<br>- Add Std link.</br>\n
+\n<br>- Add 5 link providers.</br>\n",  
 "update_build":"142",  
 "update_version":"2.3.3r",  
 "update_link":"https://github.com/awedsa256/dsadsad/releases/download/2.3.3r/2.3.3r.apk",  
